@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="texto_inicio">Hernan Dario Lozano Rojas</string>
+</resources>
