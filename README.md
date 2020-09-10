@@ -10,7 +10,7 @@ El contenido de este repositorio tiene como objetivo reportar el codigo fuente p
 <br>
 
 - [x] [Reto 0: Hola Mundo en Android](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto0) :+1:
-- [ ] [Reto 1: Propuesta proyecto](https://github.com/hdlozanorojas/movilesunal2020)
+- [x] [Reto 1: Propuesta proyecto](https://github.com/hdlozanorojas/movilesunal2020) :+1:
 - [ ] [Reto 2: Prototipo y Modelo Canvas](https://github.com/hdlozanorojas/movilesunal2020)
 - [ ] [Reto 3: Interfaz gráfica ](https://github.com/hdlozanorojas/movilesunal2020)
 - [ ] [Reto 4: Menus y Diálogos](https://github.com/hdlozanorojas/movilesunal2020)
