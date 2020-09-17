@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/newGame" android:title="@string/newGame_label"></item>
+    <item android:id="@+id/exitGame" android:title="@string/exitGame_label"></item>
+</menu>
