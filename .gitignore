@@ -20,9 +20,13 @@ out/
 # Gradle files
 .gradle/
 build/
-.DS
+
+# Ignore Mac DS_Store files
+.DS_Store
+**/.DS_Store
 .DS/
 .DS_Store
+*.DS_Store
 
 # Local configuration file (sdk path, etc)
 local.properties
