@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TicTacToe</string>
+    <string name="first_human">Humano Inicia</string>
+    <string name="turn_human">Tu turno</string>
+    <string name="turn_computer">Android turno</string>
+    <string name="turn_player_one">Player One\'s Turn.</string>
+    <string name="turn_player_two">Player Two\'s Turn.</string>
+    <string name="result_tie">¡Empate!</string>
+    <string name="result_human_wins">¡Gana Humano!</string>
+    <string name="result_android_wins">¡Gana Android!</string>
+    <string name="result_player_one_wins">Player One Wins!</string>
+    <string name="result_player_two_wins">Player Two Wins!</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="info">Info</string>
+    <string name="human">Humano:  </string>
+    <string name="player_one">Player One:  </string>
+    <string name="ties">Empate:  </string>
+    <string name="android">Android:  </string>
+    <string name="player_two">Player Two:  </string>
+
+    <string name="difficulty_choose">Dificultad</string>
+
+    <string name="difficulty_easy">Facil </string>
+    <string name="difficulty_harder">Dificil </string>
+    <string name="difficulty_expert">Experto </string>
+
+    <string name="newGame_label">Nuevo Juego</string>
+    <string name="exitGame_label">Salir</string>
+    <string name="quit_question">¿Deseas Salir del Juego?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="title_activity_bottom_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="description">Aplicación desarrollada para los retos semanales. Aplicaciones móviles UNA 2020.</string>
+    <string name="about">Acerca de</string>
+
+
+</resources>

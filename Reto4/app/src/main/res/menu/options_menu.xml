@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/newGame"
+        android:icon="@drawable/newgame"
+        android:title="@string/newGame_label" />
+    <item
+        android:id="@+id/difficulty"
+        android:icon="@drawable/dificultylevel"
+        android:title="@string/difficulty_choose" />
+    <item
+        android:id="@+id/exitGame"
+        android:icon="@drawable/exitgame"
+        android:title="@string/exitGame_label" />
+    <item
+        android:id="@+id/aboutMe"
+        android:icon="@drawable/exitgame"
+        android:title="@string/about" />
+</menu>
