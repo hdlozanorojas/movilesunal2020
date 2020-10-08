@@ -15,7 +15,7 @@ El contenido de este repositorio tiene como objetivo reportar el codigo fuente p
 - [x] [Reto 3: Interfaz gráfica ](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto3) :+1:
 - [x] [Reto 4: Menus y Diálogos](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto4) :+1:
 - [X] [Reto 5: Incorporando gráficos y audio](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto5) :+1:
-- [ ] [Reto 6: Preferencias](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto6)
+- [X] [Reto 6: Preferencias](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto6) :+1:
 - [ ] [Reto 7: Jugando Triqui Online](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto7)
 - [ ] [Reto 8: Usando SQLite](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto8)
 - [ ] [Reto 9: Accediendo al GPS](https://github.com/hdlozanorojas/movilesunal2020/tree/master/Reto9)
