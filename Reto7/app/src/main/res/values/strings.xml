@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+
+    <string name="single_player">Offline</string>
+    <string name="online">Online</string>
+    <string name="about">Acerca de</string>
+    <string name="exit">Salir</string>
+    <string name="back">Atrás</string>
+
+    <string name="label_player_turn">Turno</string>
+    <string name="turn_human">Tu turno</string>
+    <string name="turn_computer">Android</string>
+
+    <string name="about_note">
+        Este es un juego realizado para "desarrollo de aplicaciones moviles" por
+        \Hernan Lozano
+        \Universidad Nacional de Colombia
+        \hlozanor@unal.edu.co
+
+    </string>
+</resources>
