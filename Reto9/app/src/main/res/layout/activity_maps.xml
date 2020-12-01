@@ -1,0 +1,66 @@
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <EditText
+        android:id="@+id/TF_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:layout_alignParentLeft="true" />
+
+    <Button
+        android:id="@+id/B_Search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/TF_location"
+        android:onClick="onClick"
+        android:text="Search"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/B_Hospital"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/TF_location"
+        android:onClick="onClick"
+        android:text="Hospital" />
+
+    <Button
+        android:id="@+id/B_Restaurant"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/TF_location"
+        android:layout_toRightOf="@id/B_Hospital"
+        android:onClick="onClick"
+
+        android:text="Restaurant" />
+
+    <Button
+        android:id="@+id/B_School"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/TF_location"
+        android:layout_toRightOf="@id/B_Restaurant"
+        android:onClick="onClick"
+        android:text="School" />
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/B_Search"
+        android:layout_marginTop="11dp"
+        tools:context="co.edu.unal.reto9.MapsActivity"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>
